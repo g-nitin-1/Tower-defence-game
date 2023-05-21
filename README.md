@@ -1,5 +1,5 @@
 # Tower-defence-game
-python OOPS based game
+python OOPS-based game
 
   ![Demo GIF](Demo.gif)
  
@@ -29,3 +29,16 @@ python OOPS based game
 | Slow Thrower | 4 | 1 | 0 | The Slow Thrower is a special type of Thrower Dragon that does no damage but applies a slow effect on a nearest Terminator for 3 turns(stackable). The slow effect makes Terminators perform their original action on even colony times and nothing for odd ones. |
 | Scary Thrower | 6 | 1 | 0 | The Scary Thrower is a special type of Thrower Dragon that does no damage but applies a scare effect on a nearest Terminator for 2 turns(non stackable). The scare effect makes the Terminators go backwards instead of forward. Once a Terminator has been scared, it cannot be scared again thereafter. |
 | Laser Dragon | 10 | 1 | x | A Thrower Dragon with a twist. A Laser Dragon shoots a powerful laser, damaging all that dare stand in its path, friend or foe. When a Laser Dragon takes action, it will damage all Fighters(Dragons or Terminators) in it's place and all places in front of it. A Laser Dragon has a base damage of 2, but it's damage is weakened by 0.2 each place away from it's position. Also, each time a Laser Dragon damages a Fighter(Dragon or Terminator), it's total damage is reduced by 0.05. |
+
+THIS PROJECT HAS BEEN USING SEVERAL MODULES WHOSE COPYRIGHT BELONGS TO THE RESPECTIVE OWNERS AND COMMUNITIES
+
+All the content used in this code is for educational purpose only
+I dont intend to violate any copyrights
+all the rights are ownwed by the respective authors
+
+
+Copyright Disclaimer under section 107 of the Copyright Act 1976, 
+allowance is made for “fair use” for purposes such as criticism, comment, 
+news reporting, teaching, scholarship, education and research.
+
+Fair use is a use permitted by copyright statute that might otherwise be infringing.
